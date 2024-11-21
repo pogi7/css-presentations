@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pogi7.github.io/internships/changelog</id>
+    <title>Internships 101 Blog</title>
+    <updated>2024-01-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pogi7.github.io/internships/changelog"/>
+    <subtitle>Internships 101 Blog</subtitle>
+    <icon>https://pogi7.github.io/internships/https://static.thenounproject.com/png/40716-200.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.1.0 Initial Release]]></title>
+        <id>https://pogi7.github.io/internships/changelog/initial-release</id>
+        <link href="https://pogi7.github.io/internships/changelog/initial-release"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[v0.1.0 Initial Release]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="v010-initial-release">v0.1.0 Initial Release<a href="https://pogi7.github.io/internships/changelog/initial-release#v010-initial-release" class="hash-link" aria-label="Direct link to v0.1.0 Initial Release" title="Direct link to v0.1.0 Initial Release">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a href="https://pogi7.github.io/internships/changelog/initial-release#added" class="hash-link" aria-label="Direct link to Added" title="Direct link to Added">​</a></h3>
+<ul>
+<li>Initial release<!-- -->
+<ul>
+<li>Resumes</li>
+<li>Applications</li>
+<li>Interviews</li>
+<li>Offers</li>
+</ul>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Aaron Levitt</name>
+            <uri>https://www.linkedin.com/in/aaron-levitt-91534620a</uri>
+        </author>
+        <category label="resumes" term="resumes"/>
+        <category label="applications" term="applications"/>
+        <category label="interviews" term="interviews"/>
+        <category label="offers" term="offers"/>
+    </entry>
+</feed>
