@@ -5,7 +5,7 @@
 Link to [Source Code](https://github.com/pogi7/css-internship-pres/tree/master)
 
 ## Deployment on Github Pages
-Link to [Documentation Deployed on Github Pages](http://www.pogi7.github.io/internships/)
+Link to [Documentation Deployed on Github Pages](http://www.pogi7.github.io/css-internship-pres/)
 
 # Website
 
