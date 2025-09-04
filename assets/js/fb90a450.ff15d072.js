@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[5908],{160:s=>{s.exports=JSON.parse('{"label":"industries","permalink":"/css-presentations/changelog/tags/industries","allTagsPath":"/css-presentations/changelog/tags","count":1,"unlisted":false}')}}]);

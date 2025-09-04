@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[222],{9934:s=>{s.exports=JSON.parse('{"label":"resumes","permalink":"/css-internship-pres/changelog/tags/resumes","allTagsPath":"/css-internship-pres/changelog/tags","count":1,"unlisted":false}')}}]);
