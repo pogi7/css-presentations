@@ -1,9 +1,9 @@
 ## Checklist before submitting a merge request
 
-- [ ] I have reviewed [CONTRIBUTING.md](https://github.com/pogi7/css-internship-pres/blob/master/CONTRIBUTING.md) document
-- [ ] All commits have been signed-off for the Developer Certificate of Origin. See [here](https://github.com/pogi7/css-internship-pres/blob/master/CONTRIBUTING.md#developer-certificate-of-origin).
-- [ ] I have added my contribution to [CHANGELOG.md](https://github.com/pogi7/css-internship-pres/blob/master/CHANGELOG.md)
-- [ ] I have documented my code in the [OML Vision Docs](http://www.pogi7.io/css-internship-pres-docs/)
+- [ ] I have reviewed [CONTRIBUTING.md](https://github.com/pogi7/css-presentations/blob/master/CONTRIBUTING.md) document
+- [ ] All commits have been signed-off for the Developer Certificate of Origin. See [here](https://github.com/pogi7/css-presentations/blob/master/CONTRIBUTING.md#developer-certificate-of-origin).
+- [ ] I have added my contribution to [CHANGELOG.md](https://github.com/pogi7/css-presentations/blob/master/CHANGELOG.md)
+- [ ] I have documented my code in the [OML Vision Docs](http://www.pogi7.io/css-presentations-docs/)
 
 ## Description of contribution
 

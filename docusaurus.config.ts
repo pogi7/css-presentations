@@ -3,20 +3,20 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Internships 101',
-  tagline: 'A guide on finding internships and the internship application process.',
+  title: 'CSS Presentations',
+  tagline: 'Presentations that help students find internships and what working in industry is like.',
   favicon: 'https://static.thenounproject.com/png/40716-200.png',
 
   // Set the production url of your site here
   url: 'https://pogi7.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/css-internship-pres/',
+  baseUrl: '/css-presentations/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pogi7', // Usually your GitHub org/user name.
-  projectName: 'css-internship-pres', // Usually your repo name.
+  projectName: 'css-presentations', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/pogi7/css-internship-pres/tree/master/',
+            'https://github.com/pogi7/css-presentations/tree/master/',
         },
         blog: {
           // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/pogi7/css-internship-pres/tree/master/',
+            'https://github.com/pogi7/css-presentations/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -79,7 +79,7 @@ const config: Config = {
           position: 'right'
         },
         {
-          href: 'https://github.com/pogi7/css-internship-pres',
+          href: 'https://github.com/pogi7/css-presentations',
           label: 'Source Code',
           position: 'right',
         },
@@ -110,7 +110,7 @@ const config: Config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/aaron-levitt-91534620a',
+              href: 'https://www.linkedin.com/in/aaronlevitt7',
             },
             {
               label: 'GitHub',
@@ -123,7 +123,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Built with Docusaurus.`,
+      copyright: `Built with Docusaurus | Content is the Author's Own Opinions`,
     },
     prism: {
       theme: prismThemes.github,

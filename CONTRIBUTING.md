@@ -2,7 +2,7 @@
 
 We thank you for taking time to contribute! We appreciate your help with feature implementation, bug fixes, unit tests, or just for reporting the issues and improvement ideas.
 
-- Project's main issue tracker is [here](https://github.com/pogi7/css-internship-pres/issues/new/choose) and this is the prefered place to post issues. 
+- Project's main issue tracker is [here](https://github.com/pogi7/css-presentations/issues/new/choose) and this is the prefered place to post issues. 
 
 ## Environment details
 
@@ -14,11 +14,11 @@ We use [Jest](https://jestjs.io/) for unit testing. We would always be happy to 
 
 ## Reporting bugs
 
-You may report bugs to the issue tracker [here](https://github.com/pogi7/css-internship-pres/issues/new/choose). 
+You may report bugs to the issue tracker [here](https://github.com/pogi7/css-presentations/issues/new/choose). 
 
 ## Suggesting features
 
-You may post feature/enhancement requests on the project's issue tracker [here](https://github.com/pogi7/css-internship-pres/issues/new/choose).
+You may post feature/enhancement requests on the project's issue tracker [here](https://github.com/pogi7/css-presentations/issues/new/choose).
 
 ## Coding conventions
 
@@ -26,7 +26,7 @@ We suggest using Google's TypeScript coding conventions found [here](https://goo
 
 ## Submitting changes
 
-Please create a pull request to our project's Github repo. As a merge request description, please fill in the pull request description template [here](https://github.com/pogi7/css-internship-pres/pulls). We would be very grateful if you would include Jest unit tests for the added code.
+Please create a pull request to our project's Github repo. As a merge request description, please fill in the pull request description template [here](https://github.com/pogi7/css-presentations/pulls). We would be very grateful if you would include Jest unit tests for the added code.
 
 Make sure that all of your commits are atomic (i.e. addressing not more than one feature per commit) and always write a clear message for your commits.
 

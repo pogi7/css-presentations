@@ -1,11 +1,10 @@
-# CSS Internship Presentation
-## Internship 101
+# CSS Presentations
 
 ## Source Code
-Link to [Source Code](https://github.com/pogi7/css-internship-pres/tree/master)
+Link to [Source Code](https://github.com/pogi7/css-presentations/tree/master)
 
 ## Deployment on Github Pages
-Link to [Documentation Deployed on Github Pages](http://www.pogi7.github.io/css-internship-pres/)
+Link to [Documentation Deployed on Github Pages](http://www.pogi7.github.io/css-presentations/)
 
 # Website
 
