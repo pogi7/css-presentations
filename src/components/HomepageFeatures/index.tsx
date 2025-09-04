@@ -10,33 +10,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'How to Get Hired?',
+    title: 'Getting a Job',
     Svg: require('@site/static/img/undraw_interview.svg').default,
     description: (
       <>
         You want to craft the best story possible that will reasonate with the hiring team.  It's always a good idea to see if you have 
         the necessary technical skills to fit in with the team and if the company/team culture is the right vibe.  
+        There are always alternatives to industry such as grad school, personal projects, or gap years. 
       </>
     ),
   },
   {
-    title: 'What Should I Do?',
+    title: 'Recruitment Process',
     Svg: require('@site/static/img/undraw_code_thinking.svg').default,
     description: (
       <>
-        Hiring teams want to make sure you can contribute value and work well with others.  Every hiring team is different,
+        Try not to sweat it!    Hiring teams want to make sure you can contribute value and work well with others.  Every hiring team is different,
         but in general if you have worked in a group project, have a readable resume, and know the basics of programming you have a good chance to be extended an offer.
       </>
     ),
   },
   {
-    title: "Don't Worry!",
+    title: "Working in Industry",
     Svg: require('@site/static/img/undraw_happy_announcement.svg').default,
     description: (
       <>
-        Try not to sweat it!  Know that the company and hiring team you are interviewing for
-        are people just like you and me.  It's always a good idea to cast a wide net when looking for internships.
-        There are always alternatives to internships such as research or personal projects.  
+        Every industry, company, and team are different and bring their unique culture with them to the workplace.  The soft skills you learn in school, clubs, 
+        and other aspects of life will be used at any job or interaction you have in the workplace. Know that the company and hiring team you are interviewing for
+        are people just like you and me. 
       </>
     ),
   },
